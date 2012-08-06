@@ -5,10 +5,10 @@
 #   gem 'sqlite3'
 development:
   adapter: mysql2
-  database: tyler_test 
+  database: sample_app 
   host: localhost
-  username: tyler
-  password: "5326"
+  username: sample_app
+  password: "53265326"
   encoding: utf8
 
 
